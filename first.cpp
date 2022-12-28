@@ -3,6 +3,7 @@ using namespace std;
 int main(){
  int n;
  cout<<"Hii everybody";
+ cout<<endl;
  cin>>n;
  int i =1;
  while(i<=n){
